@@ -13,10 +13,11 @@ Player versus Player, Player versus Computer and Computer versus Computer games 
 All functionality from the Assignment specification was implemented except AI levels 3 and 4. We implemented extra features such as the ability to change the chess board pattern colours and piece colours. 
 
 See the documentation for terminal commands for playing our game. 
-
+<br>
 <a href="docs/chess.pdf">Instructions</a>
-
+<br>
 Doumentation Submission:
+<br>
 <a href="docs/plan.pdf">Plan</a>
 <br>
 <a href="docs/uml.pdf">UML Class Diagram</a>
