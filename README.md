@@ -18,5 +18,5 @@ Instuctions:  ![Instructions](docs/chess.pdf)
 
 Doumentation Submission:
 Plan ![Plan](docs/plan.pdf)
-UML ![Design Document](docs/design.pdf)
-Design Document ![UML Class Diagram](docs/uml.pdf)
+UML ![UML Class Diagram](docs/uml.pdf)
+Design Document ![Design Document](docs/design.pdf)
