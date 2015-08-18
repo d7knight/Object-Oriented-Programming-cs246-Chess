@@ -14,9 +14,11 @@ All functionality from the Assignment specification was implemented except AI le
 
 See the documentation for terminal commands for playing our game. 
 
-<a href="docs/chess.pdf">Instructions/</a>
+<a href="docs/chess.pdf">Instructions</a>
 
 Doumentation Submission:
-<a href="docs/plan.pdf">Plan/</a>
-<a href="docs/uml.pdf">UML Class Diagram/</a>
-<a href="docs/design.pdf">Design Document/</a>
+<a href="docs/plan.pdf">Plan</a>
+<br>
+<a href="docs/uml.pdf">UML Class Diagram</a>
+<br>
+<a href="docs/design.pdf">Design Document</a>
