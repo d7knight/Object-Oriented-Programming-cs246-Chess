@@ -4,8 +4,8 @@ Chess Game
 Team: David Knight and Tom Ebergen
 
 We developed this chess game in cs246 (University of Waterloo) as a final project.
-
-We developed this project in c++ using best object orient featuring two levels of AI's for the computers and a graphical interface using X11. 
+ 
+Our chess game features two levels of difficulty for the computer AI and a graphical interface using X11. 
 Player versus Player, Player versus Computer and Computer versus Computer games are possible.
 
 ![Alt text](docs/Screenshot from 2015-08-12 23_15_56.png?raw=true "Optional Title")
@@ -14,9 +14,9 @@ All functionality from the Assignment specification was implemented except AI le
 
 See the documentation for terminal commands for playing our game. 
 
-Instuctions:  ![Alt text](docs/chess.pdf?raw=true "Optional Title")
+Instuctions:  ![Alt text](docs/chess.pdf)
 
 Doumentation Submission:
-Plan ![Alt text](docs/plan.pdf?raw=true "Optional Title")
-UML ![Alt text](docs/design.pdf?raw=true "Optional Title")
-Design Document ![Alt text](docs/uml.pdf?raw=true "Optional Title")
+Plan ![Alt text](docs/plan.pdf)
+UML ![Alt text](docs/design.pdf)
+Design Document ![Alt text](docs/uml.pdf)
