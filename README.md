@@ -14,9 +14,9 @@ All functionality from the Assignment specification was implemented except AI le
 
 See the documentation for terminal commands for playing our game. 
 
-Instuctions:  ![Instructions](docs/chess.pdf)
+<a href="docs/chess.pdf">Instructions/</a>
 
 Doumentation Submission:
-Plan ![Plan](docs/plan.pdf)
-UML ![UML Class Diagram](docs/uml.pdf)
-Design Document ![Design Document](docs/design.pdf)
+<a href="docs/plan.pdf">Plan/</a>
+<a href="docs/uml.pdf">UML Class Diagram/</a>
+<a href="docs/design.pdf">Design Document/</a>
